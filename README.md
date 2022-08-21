@@ -4,7 +4,7 @@
 A single page calander of a duration of time that allows users to enter text in to the corresponding fields and save their enteries to local storage which will persist.
 
 ## Usage
-This application is not deployed live on any website.
+This application is deployed on github pages.
 
 ## TODO:
 * Add styling
