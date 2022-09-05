@@ -8,6 +8,8 @@
 var inValue1 = document.getElementById("inValue1");
 var insert1 = document.getElementById("Insert1");
 
+window.localStorage.clear()
+
 insert1.onclick = function (event) {
     event.preventDefault()
     var key = "Monday";
